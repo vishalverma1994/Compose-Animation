@@ -14,11 +14,6 @@
         android:theme="@style/Theme.MyAnimation"
         tools:targetApi="31">
         <activity
-            android:name=".ui.activity.QuotesDetailScreen"
-            android:exported="false"
-            android:label="@string/title_activity_quotes_detail_screen"
-            android:theme="@style/Theme.MyAnimation" />
-        <activity
             android:name=".ui.activity.MainActivity"
             android:exported="true">
             <intent-filter>
